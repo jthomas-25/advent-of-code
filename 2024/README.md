@@ -26,6 +26,6 @@
 |  22   | Monkey Market |  |
 |  23   | LAN Party | 1 star |
 |  24   | Crossed Wires | 1 star |
-|  25   | Code Chronicle | |
+|  25   | Code Chronicle |  |
 
 #### Total stars: 29 / 50

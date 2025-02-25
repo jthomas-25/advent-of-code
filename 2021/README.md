@@ -26,6 +26,6 @@
 |  22   | Reactor Reboot |  |
 |  23   | Amphipod |  |
 |  24   | Arithmetic Logic Unit |  |
-|  25   | Sea Cucumber | |
+|  25   | Sea Cucumber |  |
 
 #### Total stars: 32 / 50
